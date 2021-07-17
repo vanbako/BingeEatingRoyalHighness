@@ -33,13 +33,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_19FE80CD616C49ABAB4DA2F35C3D480B"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_1B0AC625532846AF92C0DE969EFB5058"
+        "MsmKey" = "8:_2F0B6440AF8644419338848778F1742D"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -51,7 +45,25 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_3EBB52B225764116A66E3D22CC1197D2"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_422B36DD77A94122A1F74BB4C64F76C1"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_4258E08238F642368E7FFF0A83F44D40"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_43F163EDF1DB4F5A8B60C00F0D39AC31"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -64,6 +76,12 @@
         "Entry"
         {
         "MsmKey" = "8:_4C6D9561D2234EA980BDD485E77F85FC"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_53351E4469E241E8B28D25DE6F22FC04"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -87,13 +105,13 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_5C4A58BE02E0496C9949DE9DB8C876FD"
+        "MsmKey" = "8:_621143999A914C90B4CA915BA5345CA4"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_621143999A914C90B4CA915BA5345CA4"
+        "MsmKey" = "8:_64FB75FB0E22457290EE78A26E07C5D5"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -105,7 +123,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_81F661AD22414D7B9ECE8DBB556873E8"
+        "MsmKey" = "8:_7AA7ED7167B7423290BF8FF7F11E986A"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -123,19 +141,25 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_8BE64AE74F0840AA9AADB4DA86B9D607"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_8E7C3C1AF83A4B3086995CC52895E3B8"
+        "MsmKey" = "8:_9590AF4684254AE18092F91DB94FAC78"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_978A7ADEBD444C3B991F002CBFFE1861"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9A7356D09FDD4C4499FC2BCC4746120B"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A6FBB2BAC93F4EBBB16F278F3F481ECB"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -159,7 +183,19 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_B5153C0A8B5A455A820A7A5C5E662E2F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_B614811289334F39A479D6B3BEE516EF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C08CCB5C3307405F85FA12AEDE9F2D5A"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -183,19 +219,31 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_DFEFE54D818F4AC4A94FE9AAE9D4D021"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E25CE6D8BC6A463A850CBE77CCCA27A5"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_E30D23B00D9440169149B11853A5231A"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_EA826041120C4040AA5311866B24C310"
+        "MsmKey" = "8:_ED9A129FD47A43558A6161150B80089A"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_EBC45D4BA4924101ABDD07772AE7A930"
+        "MsmKey" = "8:_FB6CD6D3E0134278B205841EA908021C"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -314,32 +362,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_19FE80CD616C49ABAB4DA2F35C3D480B"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2F0B6440AF8644419338848778F1742D"
             {
-            "SourcePath" = "8:..\\Resources\\Texture\\Flower_Red.png"
-            "TargetName" = "8:Flower_Red.png"
+            "SourcePath" = "8:..\\Resources\\Texture\\Wizard\\Wizard_Red_N.png"
+            "TargetName" = "8:Wizard_Red_N.png"
             "Tag" = "8:"
-            "Folder" = "8:_893AEF1C662B4CE498778A0E78D49599"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1B0AC625532846AF92C0DE969EFB5058"
-            {
-            "SourcePath" = "8:..\\Resources\\Texture\\Wizard_Blue_A.png"
-            "TargetName" = "8:Wizard_Blue_A.png"
-            "Tag" = "8:"
-            "Folder" = "8:_893AEF1C662B4CE498778A0E78D49599"
+            "Folder" = "8:_3070D069267A4CB19F3FCB898D2753B3"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -374,12 +402,72 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3EBB52B225764116A66E3D22CC1197D2"
+            {
+            "SourcePath" = "8:..\\Resources\\Model\\Wizard\\Wizard.ovm"
+            "TargetName" = "8:Wizard.ovm"
+            "Tag" = "8:"
+            "Folder" = "8:_DF065922BEB6404FA40C6D6C2F43B4F9"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_422B36DD77A94122A1F74BB4C64F76C1"
             {
             "SourcePath" = "8:..\\x64\\Release\\PosNormTanTex_iA_rs.cso"
             "TargetName" = "8:PosNormTanTex_iA_rs.cso"
             "Tag" = "8:"
             "Folder" = "8:_028314DAF45F413B9AFD447D46B32B54"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4258E08238F642368E7FFF0A83F44D40"
+            {
+            "SourcePath" = "8:..\\Resources\\Texture\\RoyalHighness\\RoyalHighness_Blue_N.png"
+            "TargetName" = "8:RoyalHighness_Blue_N.png"
+            "Tag" = "8:"
+            "Folder" = "8:_A479CA67FF314E3FA5F70D3F370BBA05"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_43F163EDF1DB4F5A8B60C00F0D39AC31"
+            {
+            "SourcePath" = "8:..\\Resources\\Texture\\Flower\\Flower_Red.png"
+            "TargetName" = "8:Flower_Red.png"
+            "Tag" = "8:"
+            "Folder" = "8:_0A31AF953AF7438E8E8A75CF3F6C1CF8"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -420,6 +508,26 @@
             "TargetName" = "8:Flower.ins"
             "Tag" = "8:"
             "Folder" = "8:_2B18C92BEA2F45C78CDA1175A3EB7D9A"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_53351E4469E241E8B28D25DE6F22FC04"
+            {
+            "SourcePath" = "8:..\\Resources\\Model\\Flower\\Flower.ovm"
+            "TargetName" = "8:Flower.ovm"
+            "Tag" = "8:"
+            "Folder" = "8:_15EE5CA4696B4E6099153C23F2705983"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -494,12 +602,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5C4A58BE02E0496C9949DE9DB8C876FD"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_621143999A914C90B4CA915BA5345CA4"
             {
-            "SourcePath" = "8:..\\Resources\\Texture\\Flower_Blue.png"
-            "TargetName" = "8:Flower_Blue.png"
+            "SourcePath" = "8:..\\x64\\Release\\PosNormTanTex_AN_rs.cso"
+            "TargetName" = "8:PosNormTanTex_AN_rs.cso"
             "Tag" = "8:"
-            "Folder" = "8:_893AEF1C662B4CE498778A0E78D49599"
+            "Folder" = "8:_028314DAF45F413B9AFD447D46B32B54"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -514,12 +622,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_621143999A914C90B4CA915BA5345CA4"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_64FB75FB0E22457290EE78A26E07C5D5"
             {
-            "SourcePath" = "8:..\\x64\\Release\\PosNormTanTex_AN_rs.cso"
-            "TargetName" = "8:PosNormTanTex_AN_rs.cso"
+            "SourcePath" = "8:..\\Resources\\Texture\\Wizard\\Wizard_Blue_N.png"
+            "TargetName" = "8:Wizard_Blue_N.png"
             "Tag" = "8:"
-            "Folder" = "8:_028314DAF45F413B9AFD447D46B32B54"
+            "Folder" = "8:_3070D069267A4CB19F3FCB898D2753B3"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -554,12 +662,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_81F661AD22414D7B9ECE8DBB556873E8"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7AA7ED7167B7423290BF8FF7F11E986A"
             {
-            "SourcePath" = "8:..\\Resources\\Model\\Wizard.ovm"
-            "TargetName" = "8:Wizard.ovm"
+            "SourcePath" = "8:..\\x64\\Release\\PosNormTanTex_aAN_rs.cso"
+            "TargetName" = "8:PosNormTanTex_aAN_rs.cso"
             "Tag" = "8:"
-            "Folder" = "8:_DCAE940ADA1349B88998FB315CEBAB85"
+            "Folder" = "8:_028314DAF45F413B9AFD447D46B32B54"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -614,32 +722,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8BE64AE74F0840AA9AADB4DA86B9D607"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9590AF4684254AE18092F91DB94FAC78"
             {
-            "SourcePath" = "8:..\\Resources\\Texture\\Wizard_Red_N.png"
-            "TargetName" = "8:Wizard_Red_N.png"
-            "Tag" = "8:"
-            "Folder" = "8:_893AEF1C662B4CE498778A0E78D49599"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8E7C3C1AF83A4B3086995CC52895E3B8"
-            {
-            "SourcePath" = "8:..\\Resources\\Texture\\Wizard_Red_A.png"
+            "SourcePath" = "8:..\\Resources\\Texture\\Wizard\\Wizard_Red_A.png"
             "TargetName" = "8:Wizard_Red_A.png"
             "Tag" = "8:"
-            "Folder" = "8:_893AEF1C662B4CE498778A0E78D49599"
+            "Folder" = "8:_3070D069267A4CB19F3FCB898D2753B3"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -658,6 +746,46 @@
             {
             "SourcePath" = "8:..\\x64\\Release\\PosNormTanTex_iA_vs.cso"
             "TargetName" = "8:PosNormTanTex_iA_vs.cso"
+            "Tag" = "8:"
+            "Folder" = "8:_028314DAF45F413B9AFD447D46B32B54"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9A7356D09FDD4C4499FC2BCC4746120B"
+            {
+            "SourcePath" = "8:..\\Resources\\Texture\\RoyalHighness\\RoyalHighness_Blue_A.png"
+            "TargetName" = "8:RoyalHighness_Blue_A.png"
+            "Tag" = "8:"
+            "Folder" = "8:_A479CA67FF314E3FA5F70D3F370BBA05"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A6FBB2BAC93F4EBBB16F278F3F481ECB"
+            {
+            "SourcePath" = "8:..\\x64\\Release\\PosNormTanTex_aAN_ps.cso"
+            "TargetName" = "8:PosNormTanTex_aAN_ps.cso"
             "Tag" = "8:"
             "Folder" = "8:_028314DAF45F413B9AFD447D46B32B54"
             "Condition" = "8:"
@@ -734,12 +862,52 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B5153C0A8B5A455A820A7A5C5E662E2F"
+            {
+            "SourcePath" = "8:..\\Resources\\Model\\RoyalHighness\\RoyalHighness1.ovm"
+            "TargetName" = "8:RoyalHighness1.ovm"
+            "Tag" = "8:"
+            "Folder" = "8:_A70CB048F8F34688BC7B02D9B02301F8"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B614811289334F39A479D6B3BEE516EF"
             {
             "SourcePath" = "8:..\\x64\\Release\\PosNormTanTex_iAN_rs.cso"
             "TargetName" = "8:PosNormTanTex_iAN_rs.cso"
             "Tag" = "8:"
             "Folder" = "8:_028314DAF45F413B9AFD447D46B32B54"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C08CCB5C3307405F85FA12AEDE9F2D5A"
+            {
+            "SourcePath" = "8:..\\Resources\\Texture\\RoyalHighness\\RoyalHighness_Red_N.png"
+            "TargetName" = "8:RoyalHighness_Red_N.png"
+            "Tag" = "8:"
+            "Folder" = "8:_A479CA67FF314E3FA5F70D3F370BBA05"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -814,6 +982,46 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DFEFE54D818F4AC4A94FE9AAE9D4D021"
+            {
+            "SourcePath" = "8:..\\Resources\\Texture\\Flower\\Flower_Blue.png"
+            "TargetName" = "8:Flower_Blue.png"
+            "Tag" = "8:"
+            "Folder" = "8:_0A31AF953AF7438E8E8A75CF3F6C1CF8"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E25CE6D8BC6A463A850CBE77CCCA27A5"
+            {
+            "SourcePath" = "8:..\\Resources\\Texture\\Wizard\\Wizard_Blue_A.png"
+            "TargetName" = "8:Wizard_Blue_A.png"
+            "Tag" = "8:"
+            "Folder" = "8:_3070D069267A4CB19F3FCB898D2753B3"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E30D23B00D9440169149B11853A5231A"
             {
             "SourcePath" = "8:..\\Resources\\Input\\Camera.txt"
@@ -834,12 +1042,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EA826041120C4040AA5311866B24C310"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_ED9A129FD47A43558A6161150B80089A"
             {
-            "SourcePath" = "8:..\\Resources\\Model\\Flower.ovm"
-            "TargetName" = "8:Flower.ovm"
+            "SourcePath" = "8:..\\x64\\Release\\PosNormTanTex_aAN_vs.cso"
+            "TargetName" = "8:PosNormTanTex_aAN_vs.cso"
             "Tag" = "8:"
-            "Folder" = "8:_DCAE940ADA1349B88998FB315CEBAB85"
+            "Folder" = "8:_028314DAF45F413B9AFD447D46B32B54"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -854,12 +1062,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EBC45D4BA4924101ABDD07772AE7A930"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_FB6CD6D3E0134278B205841EA908021C"
             {
-            "SourcePath" = "8:..\\Resources\\Texture\\Wizard_Blue_N.png"
-            "TargetName" = "8:Wizard_Blue_N.png"
+            "SourcePath" = "8:..\\Resources\\Texture\\RoyalHighness\\RoyalHighness_Red_A.png"
+            "TargetName" = "8:RoyalHighness_Red_A.png"
             "Tag" = "8:"
-            "Folder" = "8:_893AEF1C662B4CE498778A0E78D49599"
+            "Folder" = "8:_A479CA67FF314E3FA5F70D3F370BBA05"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -952,6 +1160,39 @@
                             "Property" = "8:_FF209B9FD27B45158C75D5AADF00C425"
                                 "Folders"
                                 {
+                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_0A31AF953AF7438E8E8A75CF3F6C1CF8"
+                                    {
+                                    "Name" = "8:Flower"
+                                    "AlwaysCreate" = "11:FALSE"
+                                    "Condition" = "8:"
+                                    "Transitive" = "11:FALSE"
+                                    "Property" = "8:_8B6588DDFD1B44B9A8A7FDB983DF4F26"
+                                        "Folders"
+                                        {
+                                        }
+                                    }
+                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_3070D069267A4CB19F3FCB898D2753B3"
+                                    {
+                                    "Name" = "8:Wizard"
+                                    "AlwaysCreate" = "11:FALSE"
+                                    "Condition" = "8:"
+                                    "Transitive" = "11:FALSE"
+                                    "Property" = "8:_6920F7FFCB4F42B89A4D931C35140768"
+                                        "Folders"
+                                        {
+                                        }
+                                    }
+                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_A479CA67FF314E3FA5F70D3F370BBA05"
+                                    {
+                                    "Name" = "8:RoyalHighness"
+                                    "AlwaysCreate" = "11:FALSE"
+                                    "Condition" = "8:"
+                                    "Transitive" = "11:FALSE"
+                                    "Property" = "8:_5015C373FB904B5CB884FB9817BF1E8D"
+                                        "Folders"
+                                        {
+                                        }
+                                    }
                                 }
                             }
                             "{9EF0B969-E518-4E46-987F-47570745A589}:_DCAE940ADA1349B88998FB315CEBAB85"
@@ -963,6 +1204,39 @@
                             "Property" = "8:_992042B5F42048C690000AF205675E00"
                                 "Folders"
                                 {
+                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_15EE5CA4696B4E6099153C23F2705983"
+                                    {
+                                    "Name" = "8:Flower"
+                                    "AlwaysCreate" = "11:FALSE"
+                                    "Condition" = "8:"
+                                    "Transitive" = "11:FALSE"
+                                    "Property" = "8:_799F1C90EC334D24B1F1812CD6280AC8"
+                                        "Folders"
+                                        {
+                                        }
+                                    }
+                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_A70CB048F8F34688BC7B02D9B02301F8"
+                                    {
+                                    "Name" = "8:RoyalHighness"
+                                    "AlwaysCreate" = "11:FALSE"
+                                    "Condition" = "8:"
+                                    "Transitive" = "11:FALSE"
+                                    "Property" = "8:_291B4434F657422E9626FCB633F8D442"
+                                        "Folders"
+                                        {
+                                        }
+                                    }
+                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_DF065922BEB6404FA40C6D6C2F43B4F9"
+                                    {
+                                    "Name" = "8:Wizard"
+                                    "AlwaysCreate" = "11:FALSE"
+                                    "Condition" = "8:"
+                                    "Transitive" = "11:FALSE"
+                                    "Property" = "8:_20E687DE56CE4C8FB388FBE92AF79B37"
+                                        "Folders"
+                                        {
+                                        }
+                                    }
                                 }
                             }
                         }
@@ -1019,7 +1293,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:BingeEatingRoyalHighness"
         "ProductCode" = "8:{130F7598-E3AE-4A0F-AC6D-C221D57F4FE7}"
-        "PackageCode" = "8:{1E2BABF0-61F2-4D98-BF10-F7BF1F63509F}"
+        "PackageCode" = "8:{823FF8C7-CA08-4491-B627-78E6BEC6E544}"
         "UpgradeCode" = "8:{F27DF20F-4DA6-4D3B-BF67-7BB169E0842C}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"

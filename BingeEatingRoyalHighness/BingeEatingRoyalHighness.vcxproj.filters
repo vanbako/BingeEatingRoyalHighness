@@ -25,6 +25,24 @@
     <Filter Include="Resources\Texture">
       <UniqueIdentifier>{e67b8da2-97e4-4578-8aa0-7c10c46aa1c6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Resources\Model\Flower">
+      <UniqueIdentifier>{5ee8b933-3bae-4fb3-8a06-83bcce7a9922}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Model\RoyalHighness">
+      <UniqueIdentifier>{dbb50818-b5e4-4443-b1d6-db146ea246c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Model\Wizard">
+      <UniqueIdentifier>{e11b1c3b-8dfd-4981-824f-cf526f1f3df7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Texture\Flower">
+      <UniqueIdentifier>{0fcf7502-a840-42ae-b6a6-5ec6d2ae8c16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Texture\RoyalHighness">
+      <UniqueIdentifier>{695611a1-f87f-43fd-b085-2aa085ce7e37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Texture\Wizard">
+      <UniqueIdentifier>{733b2737-e2c6-4aed-bfae-a5c865d50a73}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -51,31 +69,46 @@
     <None Include="..\Resources\Instances\Flower.ins">
       <Filter>Resources\Instances</Filter>
     </None>
-    <None Include="..\Resources\Model\Flower.ovm">
-      <Filter>Resources\Model</Filter>
+    <None Include="..\Resources\Model\Flower\Flower.ovm">
+      <Filter>Resources\Model\Flower</Filter>
     </None>
-    <None Include="..\Resources\Model\Wizard.ovm">
-      <Filter>Resources\Model</Filter>
+    <None Include="..\Resources\Model\Wizard\Wizard.ovm">
+      <Filter>Resources\Model\Wizard</Filter>
+    </None>
+    <None Include="..\Resources\Model\RoyalHighness\RoyalHighness1.ovm">
+      <Filter>Resources\Model\RoyalHighness</Filter>
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\Resources\Texture\Flower_Blue.png">
-      <Filter>Resources\Texture</Filter>
+    <Image Include="..\Resources\Texture\Flower\Flower_Blue.png">
+      <Filter>Resources\Texture\Flower</Filter>
     </Image>
-    <Image Include="..\Resources\Texture\Flower_Red.png">
-      <Filter>Resources\Texture</Filter>
+    <Image Include="..\Resources\Texture\Flower\Flower_Red.png">
+      <Filter>Resources\Texture\Flower</Filter>
     </Image>
-    <Image Include="..\Resources\Texture\Wizard_Blue_A.png">
-      <Filter>Resources\Texture</Filter>
+    <Image Include="..\Resources\Texture\Wizard\Wizard_Blue_A.png">
+      <Filter>Resources\Texture\Wizard</Filter>
     </Image>
-    <Image Include="..\Resources\Texture\Wizard_Blue_N.png">
-      <Filter>Resources\Texture</Filter>
+    <Image Include="..\Resources\Texture\Wizard\Wizard_Blue_N.png">
+      <Filter>Resources\Texture\Wizard</Filter>
     </Image>
-    <Image Include="..\Resources\Texture\Wizard_Red_A.png">
-      <Filter>Resources\Texture</Filter>
+    <Image Include="..\Resources\Texture\Wizard\Wizard_Red_A.png">
+      <Filter>Resources\Texture\Wizard</Filter>
     </Image>
-    <Image Include="..\Resources\Texture\Wizard_Red_N.png">
-      <Filter>Resources\Texture</Filter>
+    <Image Include="..\Resources\Texture\Wizard\Wizard_Red_N.png">
+      <Filter>Resources\Texture\Wizard</Filter>
+    </Image>
+    <Image Include="..\Resources\Texture\RoyalHighness\RoyalHighness_Blue_A.png">
+      <Filter>Resources\Texture\RoyalHighness</Filter>
+    </Image>
+    <Image Include="..\Resources\Texture\RoyalHighness\RoyalHighness_Blue_N.png">
+      <Filter>Resources\Texture\RoyalHighness</Filter>
+    </Image>
+    <Image Include="..\Resources\Texture\RoyalHighness\RoyalHighness_Red_A.png">
+      <Filter>Resources\Texture\RoyalHighness</Filter>
+    </Image>
+    <Image Include="..\Resources\Texture\RoyalHighness\RoyalHighness_Red_N.png">
+      <Filter>Resources\Texture\RoyalHighness</Filter>
     </Image>
   </ItemGroup>
 </Project>

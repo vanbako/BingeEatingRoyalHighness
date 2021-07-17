@@ -125,32 +125,63 @@ xcopy "$(SolutionDir)Core\bin\release\*.*" "$(TargetDir)" /v /k /y</Command>
     </Text>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\Resources\Instances\Flower.ins" />
-    <None Include="..\Resources\Model\Flower.ovm">
-      <DeploymentContent>true</DeploymentContent>
+    <None Include="..\Resources\Instances\Flower.ins">
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</DeploymentContent>
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</DeploymentContent>
     </None>
-    <None Include="..\Resources\Model\Wizard.ovm">
-      <DeploymentContent>true</DeploymentContent>
+    <None Include="..\Resources\Model\Flower\Flower.ovm">
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</DeploymentContent>
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</DeploymentContent>
+    </None>
+    <None Include="..\Resources\Model\RoyalHighness\RoyalHighness1.ovm">
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</DeploymentContent>
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</DeploymentContent>
+    </None>
+    <None Include="..\Resources\Model\Wizard\Wizard.ovm">
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</DeploymentContent>
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</DeploymentContent>
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\Resources\Texture\Flower_Blue.png">
-      <DeploymentContent>true</DeploymentContent>
+    <Image Include="..\Resources\Texture\Flower\Flower_Blue.png">
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</DeploymentContent>
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</DeploymentContent>
     </Image>
-    <Image Include="..\Resources\Texture\Flower_Red.png">
-      <DeploymentContent>true</DeploymentContent>
+    <Image Include="..\Resources\Texture\Flower\Flower_Red.png">
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</DeploymentContent>
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</DeploymentContent>
     </Image>
-    <Image Include="..\Resources\Texture\Wizard_Blue_A.png">
-      <DeploymentContent>true</DeploymentContent>
+    <Image Include="..\Resources\Texture\RoyalHighness\RoyalHighness_Blue_A.png">
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</DeploymentContent>
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</DeploymentContent>
     </Image>
-    <Image Include="..\Resources\Texture\Wizard_Blue_N.png">
-      <DeploymentContent>true</DeploymentContent>
+    <Image Include="..\Resources\Texture\RoyalHighness\RoyalHighness_Blue_N.png">
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</DeploymentContent>
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</DeploymentContent>
     </Image>
-    <Image Include="..\Resources\Texture\Wizard_Red_A.png">
-      <DeploymentContent>true</DeploymentContent>
+    <Image Include="..\Resources\Texture\RoyalHighness\RoyalHighness_Red_A.png">
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</DeploymentContent>
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</DeploymentContent>
     </Image>
-    <Image Include="..\Resources\Texture\Wizard_Red_N.png">
-      <DeploymentContent>true</DeploymentContent>
+    <Image Include="..\Resources\Texture\RoyalHighness\RoyalHighness_Red_N.png">
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</DeploymentContent>
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</DeploymentContent>
+    </Image>
+    <Image Include="..\Resources\Texture\Wizard\Wizard_Blue_A.png">
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</DeploymentContent>
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</DeploymentContent>
+    </Image>
+    <Image Include="..\Resources\Texture\Wizard\Wizard_Blue_N.png">
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</DeploymentContent>
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</DeploymentContent>
+    </Image>
+    <Image Include="..\Resources\Texture\Wizard\Wizard_Red_A.png">
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</DeploymentContent>
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</DeploymentContent>
+    </Image>
+    <Image Include="..\Resources\Texture\Wizard\Wizard_Red_N.png">
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</DeploymentContent>
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</DeploymentContent>
     </Image>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

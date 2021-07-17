@@ -7,6 +7,7 @@
 #include "Window.h"
 #include "PxIonAllocatorCallback.h"
 #include "PxIonErrorCallback.h"
+#include "ServiceLocator.h"
 
 namespace Ion
 {
@@ -22,6 +23,7 @@ namespace Ion
 			Application& operator=(const Application& other) = delete;
 			Application& operator=(Application&& other) noexcept = delete;
 
+			void ThrowIfFailed(HRESULT hr);
 			bool Initialize();
 			void Run();
 			const bool SetIsActive(bool isActive);
@@ -46,10 +48,11 @@ namespace Ion
 			//const Microsoft::WRL::ComPtr<IDWriteFactory>& GetDWriteFactory();
 			physx::PxPhysics* GetPhysics();
 			const physx::PxTolerancesScale& GetToleranceScale();
+			ServiceLocator& GetServiceLocator();
 
 			Material3D* AddMaterial3D(const std::string& name);
 			Material2D* AddMaterial2D(const std::string& name);
-			Model* AddModel(const std::string& name, Winding winding);
+			Model* AddModel(const std::string& name, Winding winding, CoordSystem coordSystem);
 			Texture* AddTexture(const std::string& name);
 		private:
 			static const std::chrono::microseconds mRunSleep;
@@ -81,6 +84,8 @@ namespace Ion
 			physx::PxTolerancesScale mPxToleranceScale;
 			physx::PxIonAllocatorCallback mIonAllocatorCallback;
 			physx::PxIonErrorCallback mIonErrorCallback;
+			ServiceLocator mServiceLocator;
+
 			void KeyboardState();
 		};
 	}

@@ -33,7 +33,19 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_2E21576051A54194862529371113BBE9"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_2F0B6440AF8644419338848778F1742D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_38576D20727B4E56A5E517552DCD634A"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -64,6 +76,12 @@
         "Entry"
         {
         "MsmKey" = "8:_43F163EDF1DB4F5A8B60C00F0D39AC31"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_45D5C94276314225A87409AE3005BA90"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -117,6 +135,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_7432C3CC982F4BA5830AADDA4D0DF793"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_793AA11E41174235B3D482F544A1201C"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -154,6 +178,12 @@
         "Entry"
         {
         "MsmKey" = "8:_9A7356D09FDD4C4499FC2BCC4746120B"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9FAEE85827D24046A0AD502263C29518"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -208,6 +238,12 @@
         "Entry"
         {
         "MsmKey" = "8:_D14B7640A6814646A76BC456D6065E3A"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D1C30E44963940998828BB15407AE9C4"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -362,12 +398,52 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2E21576051A54194862529371113BBE9"
+            {
+            "SourcePath" = "8:..\\x64\\Release\\D3D12\\D3D12SDKLayers.pdb"
+            "TargetName" = "8:D3D12SDKLayers.pdb"
+            "Tag" = "8:"
+            "Folder" = "8:_9FB83353656F4D92AFD5F32B06E00AF3"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2F0B6440AF8644419338848778F1742D"
             {
             "SourcePath" = "8:..\\Resources\\Texture\\Wizard\\Wizard_Red_N.png"
             "TargetName" = "8:Wizard_Red_N.png"
             "Tag" = "8:"
             "Folder" = "8:_3070D069267A4CB19F3FCB898D2753B3"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_38576D20727B4E56A5E517552DCD634A"
+            {
+            "SourcePath" = "8:..\\x64\\Release\\D3D12\\D3D12Core.pdb"
+            "TargetName" = "8:D3D12Core.pdb"
+            "Tag" = "8:"
+            "Folder" = "8:_9FB83353656F4D92AFD5F32B06E00AF3"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -468,6 +544,26 @@
             "TargetName" = "8:Flower_Red.png"
             "Tag" = "8:"
             "Folder" = "8:_0A31AF953AF7438E8E8A75CF3F6C1CF8"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_45D5C94276314225A87409AE3005BA90"
+            {
+            "SourcePath" = "8:..\\x64\\Release\\D3D12\\D3D12SDKLayers.dll"
+            "TargetName" = "8:D3D12SDKLayers.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_9FB83353656F4D92AFD5F32B06E00AF3"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -642,6 +738,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7432C3CC982F4BA5830AADDA4D0DF793"
+            {
+            "SourcePath" = "8:..\\x64\\Release\\Core.pdb"
+            "TargetName" = "8:Core.pdb"
+            "Tag" = "8:"
+            "Folder" = "8:_028314DAF45F413B9AFD447D46B32B54"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_793AA11E41174235B3D482F544A1201C"
             {
             "SourcePath" = "8:..\\x64\\Release\\PhysXFoundation_64.dll"
@@ -768,6 +884,26 @@
             "TargetName" = "8:RoyalHighness_Blue_A.png"
             "Tag" = "8:"
             "Folder" = "8:_A479CA67FF314E3FA5F70D3F370BBA05"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9FAEE85827D24046A0AD502263C29518"
+            {
+            "SourcePath" = "8:..\\x64\\Release\\BingeEatingRoyalHighness.pdb"
+            "TargetName" = "8:BingeEatingRoyalHighness.pdb"
+            "Tag" = "8:"
+            "Folder" = "8:_028314DAF45F413B9AFD447D46B32B54"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -962,6 +1098,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D1C30E44963940998828BB15407AE9C4"
+            {
+            "SourcePath" = "8:..\\x64\\Release\\D3D12\\D3D12Core.dll"
+            "TargetName" = "8:D3D12Core.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_9FB83353656F4D92AFD5F32B06E00AF3"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DFAC9AB66ABE4860A353D3C667B94152"
             {
             "SourcePath" = "8:..\\x64\\Release\\PhysX_64.dll"
@@ -1116,6 +1272,17 @@
                             "Property" = "8:_57C9F4F58EF44454ADEF666627B30BC0"
                                 "Folders"
                                 {
+                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_9FB83353656F4D92AFD5F32B06E00AF3"
+                                    {
+                                    "Name" = "8:D3D12"
+                                    "AlwaysCreate" = "11:FALSE"
+                                    "Condition" = "8:"
+                                    "Transitive" = "11:FALSE"
+                                    "Property" = "8:_E413C1F752CA4719A0320C6CBE53466D"
+                                        "Folders"
+                                        {
+                                        }
+                                    }
                                 }
                             }
                         }
@@ -1293,7 +1460,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:BingeEatingRoyalHighness"
         "ProductCode" = "8:{130F7598-E3AE-4A0F-AC6D-C221D57F4FE7}"
-        "PackageCode" = "8:{823FF8C7-CA08-4491-B627-78E6BEC6E544}"
+        "PackageCode" = "8:{15DFDA81-3AC7-422B-BB6F-B9B8FD094681}"
         "UpgradeCode" = "8:{F27DF20F-4DA6-4D3B-BF67-7BB169E0842C}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"

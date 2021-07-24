@@ -78,6 +78,7 @@
     <None Include="..\Resources\Model\RoyalHighness\RoyalHighness1.ovm">
       <Filter>Resources\Model\RoyalHighness</Filter>
     </None>
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\Resources\Texture\Flower\Flower_Blue.png">

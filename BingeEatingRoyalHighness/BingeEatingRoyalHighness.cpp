@@ -118,7 +118,7 @@ Object* AddFlower(Scene* pScene, Canvas* pCanvas)
 	TransformMC* pTransformMC{ pFlower->AddModelC<TransformMC>(false) };
 	(pTransformMC);
 	//pTransformMC->SetPosition(DirectX::XMFLOAT4{ -15.f, 5.f, 0.f, 0.f });
-	InstancedModelVC* pFlowerModelVC{ pFlower->AddViewC<InstancedModelVC>("Flower/Flower", "PosNormTanTex_iA", false, Winding::CCW) };
+	InstancedModelVC* pFlowerModelVC{ pFlower->AddViewC<InstancedModelVC>("Flower/Flower", "ovm", "PosNormTanTex_iA", false, Winding::CCW) };
 	pFlowerModelVC->AddTexture(TextureType::Albedo, "Flower/Flower_Blue.png");
 	pFlowerModelVC->AddCanvas(pCanvas);
 	std::vector<TransformMC> transforms{};
@@ -138,7 +138,7 @@ Object* AddWizard(Scene* pScene, Canvas* pCanvas1, Canvas* pCanvas2)
 	(pTransformMC);
 	//pTransformMC->SetPosition(DirectX::XMFLOAT4{ 0.25f, 0.f, 0.f, 0.f });
 	//pTransformMC->SetRotation(DirectX::XMFLOAT3{ 90.f, 0.f, 0.f }, AngleUnit::Degree);
-	InstancedModelVC* pWizardModelVC{ pWizard->AddViewC<InstancedModelVC>("Wizard/Wizard", "PosNormTanTex_iAN", false, Winding::CCW, CoordSystem::RightHanded) };
+	InstancedModelVC* pWizardModelVC{ pWizard->AddViewC<InstancedModelVC>("Wizard/Wizard", "ovm", "PosNormTanTex_iAN", false, Winding::CCW, CoordSystem::RightHanded) };
 	pWizardModelVC->AddTexture(TextureType::Albedo, "Wizard/Wizard_Blue_A.png");
 	pWizardModelVC->AddTexture(TextureType::Normal, "Wizard/Wizard_Blue_N.png");
 	pWizardModelVC->AddCanvas(pCanvas1);
@@ -168,7 +168,7 @@ Object* AddRoyalHighness(Scene* pScene, Canvas* pCanvas)
 	pTransformMC->SetPosition(DirectX::XMFLOAT4{ 0.f, 0.f, -25.f, 0.f });
 	//pTransformMC->SetScale(DirectX::XMFLOAT4{ 0.5f, 0.5f, 0.5f, 0.f });
 	//pTransformMC->SetRotation(DirectX::XMFLOAT3{ 90.f, 0.f, 0.f }, AngleUnit::Degree);
-	AnimatedModelVC* pRoyalHighnessModelVC{ pRoyalHighness->AddViewC<AnimatedModelVC>("RoyalHighness/RoyalHighness1", "PosNormTanTex_aAN", false, Winding::CCW, CoordSystem::RightHanded) };
+	AnimatedModelVC* pRoyalHighnessModelVC{ pRoyalHighness->AddViewC<AnimatedModelVC>("RoyalHighness/RoyalHighness1", "ovm", "PosNormTanTex_aAN", false, Winding::CCW, CoordSystem::RightHanded) };
 	//ModelVC* pRoyalHighnessModelVC{ pRoyalHighness->AddViewC<ModelVC>("RoyalHighness/RoyalHighness1", "PosNormTanTex_AN", false, Winding::CCW, CoordSystem::RightHanded) };
 	pRoyalHighnessModelVC->AddTexture(TextureType::Albedo, "RoyalHighness/RoyalHighness_Red_A.png");
 	pRoyalHighnessModelVC->AddTexture(TextureType::Normal, "RoyalHighness/RoyalHighness_Red_N.png");

@@ -1,5 +1,5 @@
 #pragma once
-#include "ReceiverMC.h"
+#include "MoveRMC.h"
 
 // Camera Model Component
 
@@ -11,7 +11,7 @@ namespace Ion
 		class TransformMC;
 
 		class CameraRMC final
-			: public Core::ReceiverMC
+			: public Core::MoveRMC
 		{
 		public:
 			explicit CameraRMC(bool isActive, Core::Object* pObject);
@@ -28,16 +28,17 @@ namespace Ion
 			virtual const std::string& GetName() const override;
 
 			void SetCanvas(Core::Canvas* pCanvas);
+			const DirectX::XMFLOAT4X4& GetView() const;
 			const DirectX::XMFLOAT4X4& GetViewProjection() const;
 
-			virtual void MoveForward() override;
-			virtual void MoveBack() override;
-			virtual void MoveLeft() override;
-			virtual void MoveRight() override;
-			virtual void MoveUp() override;
-			virtual void MoveDown() override;
-			virtual void RotateLeft() override;
-			virtual void RotateRight() override;
+			virtual void MoveForward(long long value) override;
+			virtual void MoveBack(long long value) override;
+			virtual void MoveLeft(long long value) override;
+			virtual void MoveRight(long long value) override;
+			virtual void MoveUp(long long value) override;
+			virtual void MoveDown(long long value) override;
+			virtual void RotateLeft(long long value) override;
+			virtual void RotateRight(long long value) override;
 		private:
 			static const std::string mName;
 			std::vector<std::pair<std::string, Core::Command*>> mCommands;
@@ -47,6 +48,7 @@ namespace Ion
 				mFarPlane,
 				mNearPlane,
 				mFOV;
+			DirectX::XMFLOAT4X4 mView;
 			DirectX::XMFLOAT4X4 mViewProjection;
 			Core::TransformMC* mpTransform;
 			// My best guess is that boolean operations are thread-safe

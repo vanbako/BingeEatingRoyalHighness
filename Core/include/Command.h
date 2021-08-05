@@ -17,10 +17,17 @@ namespace Ion
 
 			virtual Core::Command* Duplicate() = 0;
 			virtual void Execute() = 0;
+			virtual void SetValue(int value);
+			virtual void SetValue(long long value);
+			virtual void SetValue(float value);
+			virtual void SetValue(bool value);
 		protected:
-			explicit Command(Core::ReceiverMC* pReceiver);
+			explicit Command();
 
-			Core::ReceiverMC* mpReceiver;
+			bool mBoolValue;
+			int mIntValue;
+			long long mLongLongValue;
+			float mFloatValue;
 		};
 	}
 }

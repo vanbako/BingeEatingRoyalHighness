@@ -33,6 +33,24 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_15C72A7D9FC3424892AAECCD5C551373"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_239527AFA40142048D68AF4190C312B3"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_260C1BEC201049E4AE03530FB07054E1"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_2E21576051A54194862529371113BBE9"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -87,13 +105,13 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_4714675122BD4B518C5AD784982ADC24"
+        "MsmKey" = "8:_4644AF5FB1214F128A8C21B608B3AFE6"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_4C6D9561D2234EA980BDD485E77F85FC"
+        "MsmKey" = "8:_4714675122BD4B518C5AD784982ADC24"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -135,6 +153,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_6D2C92DD3569476AB09700D8246EE2F6"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_7432C3CC982F4BA5830AADDA4D0DF793"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -148,6 +172,12 @@
         "Entry"
         {
         "MsmKey" = "8:_7AA7ED7167B7423290BF8FF7F11E986A"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8324C3246A0A4C30BBC478135D3B150C"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -172,6 +202,12 @@
         "Entry"
         {
         "MsmKey" = "8:_978A7ADEBD444C3B991F002CBFFE1861"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_989B7CEF45564504A6421DC2E2B30BD6"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -207,6 +243,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_AF92A66756464D8DAEC6A8DA57551FC2"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_B0810E04EA8A4D7E8881446E90A15F77"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -225,6 +267,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_B63C87BC9F364636BCD5423CDEECCAAB"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_C08CCB5C3307405F85FA12AEDE9F2D5A"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -232,6 +280,12 @@
         "Entry"
         {
         "MsmKey" = "8:_C1F768AACCEF4432AD8A034A8A41DFE6"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_CE79E5718DC34AF8B3B70C733D7FACC7"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -382,6 +436,66 @@
             {
             "SourcePath" = "8:..\\x64\\Release\\PosNormTanTex_iAN_vs.cso"
             "TargetName" = "8:PosNormTanTex_iAN_vs.cso"
+            "Tag" = "8:"
+            "Folder" = "8:_028314DAF45F413B9AFD447D46B32B54"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_15C72A7D9FC3424892AAECCD5C551373"
+            {
+            "SourcePath" = "8:..\\x64\\Release\\fmod.dll"
+            "TargetName" = "8:fmod.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_028314DAF45F413B9AFD447D46B32B54"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_239527AFA40142048D68AF4190C312B3"
+            {
+            "SourcePath" = "8:..\\Resources\\Instance\\Flower.ins"
+            "TargetName" = "8:Flower.ins"
+            "Tag" = "8:"
+            "Folder" = "8:_2B18C92BEA2F45C78CDA1175A3EB7D9A"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_260C1BEC201049E4AE03530FB07054E1"
+            {
+            "SourcePath" = "8:..\\x64\\Release\\PosNorm_ps.cso"
+            "TargetName" = "8:PosNorm_ps.cso"
             "Tag" = "8:"
             "Folder" = "8:_028314DAF45F413B9AFD447D46B32B54"
             "Condition" = "8:"
@@ -578,10 +692,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4714675122BD4B518C5AD784982ADC24"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4644AF5FB1214F128A8C21B608B3AFE6"
             {
-            "SourcePath" = "8:..\\x64\\Release\\PhysXCommon_64.dll"
-            "TargetName" = "8:PhysXCommon_64.dll"
+            "SourcePath" = "8:..\\x64\\Release\\PosNorm_vs.cso"
+            "TargetName" = "8:PosNorm_vs.cso"
             "Tag" = "8:"
             "Folder" = "8:_028314DAF45F413B9AFD447D46B32B54"
             "Condition" = "8:"
@@ -598,12 +712,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4C6D9561D2234EA980BDD485E77F85FC"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4714675122BD4B518C5AD784982ADC24"
             {
-            "SourcePath" = "8:..\\Resources\\Instances\\Flower.ins"
-            "TargetName" = "8:Flower.ins"
+            "SourcePath" = "8:..\\x64\\Release\\PhysXCommon_64.dll"
+            "TargetName" = "8:PhysXCommon_64.dll"
             "Tag" = "8:"
-            "Folder" = "8:_2B18C92BEA2F45C78CDA1175A3EB7D9A"
+            "Folder" = "8:_028314DAF45F413B9AFD447D46B32B54"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -738,6 +852,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6D2C92DD3569476AB09700D8246EE2F6"
+            {
+            "SourcePath" = "8:..\\Resources\\Input\\MoveObject.txt"
+            "TargetName" = "8:MoveObject.txt"
+            "Tag" = "8:"
+            "Folder" = "8:_697ECAFE5C9F4970A61A5E7681151C44"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7432C3CC982F4BA5830AADDA4D0DF793"
             {
             "SourcePath" = "8:..\\x64\\Release\\Core.pdb"
@@ -782,6 +916,26 @@
             {
             "SourcePath" = "8:..\\x64\\Release\\PosNormTanTex_aAN_rs.cso"
             "TargetName" = "8:PosNormTanTex_aAN_rs.cso"
+            "Tag" = "8:"
+            "Folder" = "8:_028314DAF45F413B9AFD447D46B32B54"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8324C3246A0A4C30BBC478135D3B150C"
+            {
+            "SourcePath" = "8:..\\x64\\Release\\PosNorm_rs.cso"
+            "TargetName" = "8:PosNorm_rs.cso"
             "Tag" = "8:"
             "Folder" = "8:_028314DAF45F413B9AFD447D46B32B54"
             "Condition" = "8:"
@@ -864,6 +1018,26 @@
             "TargetName" = "8:PosNormTanTex_iA_vs.cso"
             "Tag" = "8:"
             "Folder" = "8:_028314DAF45F413B9AFD447D46B32B54"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_989B7CEF45564504A6421DC2E2B30BD6"
+            {
+            "SourcePath" = "8:..\\Resources\\Input\\Control.txt"
+            "TargetName" = "8:Control.txt"
+            "Tag" = "8:"
+            "Folder" = "8:_697ECAFE5C9F4970A61A5E7681151C44"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -978,6 +1152,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_AF92A66756464D8DAEC6A8DA57551FC2"
+            {
+            "SourcePath" = "8:..\\x64\\Release\\PosNormTanTex_iaAN_ps.cso"
+            "TargetName" = "8:PosNormTanTex_iaAN_ps.cso"
+            "Tag" = "8:"
+            "Folder" = "8:_028314DAF45F413B9AFD447D46B32B54"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B0810E04EA8A4D7E8881446E90A15F77"
             {
             "SourcePath" = "8:..\\x64\\Release\\PosNormTanTex_iA_ps.cso"
@@ -1038,6 +1232,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B63C87BC9F364636BCD5423CDEECCAAB"
+            {
+            "SourcePath" = "8:..\\x64\\Release\\PosNormTanTex_iaAN_vs.cso"
+            "TargetName" = "8:PosNormTanTex_iaAN_vs.cso"
+            "Tag" = "8:"
+            "Folder" = "8:_028314DAF45F413B9AFD447D46B32B54"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C08CCB5C3307405F85FA12AEDE9F2D5A"
             {
             "SourcePath" = "8:..\\Resources\\Texture\\RoyalHighness\\RoyalHighness_Red_N.png"
@@ -1062,6 +1276,26 @@
             {
             "SourcePath" = "8:..\\x64\\Release\\BingeEatingRoyalHighness.exe"
             "TargetName" = "8:BingeEatingRoyalHighness.exe"
+            "Tag" = "8:"
+            "Folder" = "8:_028314DAF45F413B9AFD447D46B32B54"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CE79E5718DC34AF8B3B70C733D7FACC7"
+            {
+            "SourcePath" = "8:..\\x64\\Release\\PosNormTanTex_iaAN_rs.cso"
+            "TargetName" = "8:PosNormTanTex_iaAN_rs.cso"
             "Tag" = "8:"
             "Folder" = "8:_028314DAF45F413B9AFD447D46B32B54"
             "Condition" = "8:"
@@ -1298,7 +1532,7 @@
                         {
                             "{9EF0B969-E518-4E46-987F-47570745A589}:_2B18C92BEA2F45C78CDA1175A3EB7D9A"
                             {
-                            "Name" = "8:Instances"
+                            "Name" = "8:Instance"
                             "AlwaysCreate" = "11:FALSE"
                             "Condition" = "8:"
                             "Transitive" = "11:FALSE"
@@ -1430,15 +1664,26 @@
             "Property" = "8:ProgramMenuFolder"
                 "Folders"
                 {
-                    "{9EF0B969-E518-4E46-987F-47570745A589}:_E11F3993550A486A985A6AEC379D513D"
+                    "{9EF0B969-E518-4E46-987F-47570745A589}:_F7657C1B57CF4297B3D4E0AFC63BE0A3"
                     {
-                    "Name" = "8:BingeEatingRoyalHighness"
-                    "AlwaysCreate" = "11:TRUE"
+                    "Name" = "8:IonEngineGames"
+                    "AlwaysCreate" = "11:FALSE"
                     "Condition" = "8:"
                     "Transitive" = "11:FALSE"
-                    "Property" = "8:_4E74032794094AFFB9B63A7EB24A9F26"
+                    "Property" = "8:_FD93BE5A79124B6FA6AD76560CC85AC1"
                         "Folders"
                         {
+                            "{9EF0B969-E518-4E46-987F-47570745A589}:_369BA72B38D949259181085960DE382C"
+                            {
+                            "Name" = "8:BingeEatingRoyalHighness"
+                            "AlwaysCreate" = "11:TRUE"
+                            "Condition" = "8:"
+                            "Transitive" = "11:FALSE"
+                            "Property" = "8:_4E74032794094AFFB9B63A7EB24A9F26"
+                                "Folders"
+                                {
+                                }
+                            }
                         }
                     }
                 }
@@ -1460,7 +1705,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:BingeEatingRoyalHighness"
         "ProductCode" = "8:{130F7598-E3AE-4A0F-AC6D-C221D57F4FE7}"
-        "PackageCode" = "8:{15DFDA81-3AC7-422B-BB6F-B9B8FD094681}"
+        "PackageCode" = "8:{D376334C-D46C-4EF3-8E7B-DB15FEFB2DF7}"
         "UpgradeCode" = "8:{F27DF20F-4DA6-4D3B-BF67-7BB169E0842C}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
@@ -1589,7 +1834,7 @@
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
             "Target" = "8:_C1F768AACCEF4432AD8A034A8A41DFE6"
-            "Folder" = "8:_E11F3993550A486A985A6AEC379D513D"
+            "Folder" = "8:_369BA72B38D949259181085960DE382C"
             "WorkingFolder" = "8:_1079007EB1344A0CB5CA14FBF7659619"
             "Icon" = "8:"
             "Feature" = "8:"

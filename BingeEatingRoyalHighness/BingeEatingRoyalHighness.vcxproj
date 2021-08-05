@@ -47,13 +47,13 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
-    <LibraryPath>$(SolutionDir)PhysX/bin/debug;$(SolutionDir)Core/bin/debug;$(LibraryPath)</LibraryPath>
-    <IncludePath>$(SolutionDir)PhysX/include;$(SolutionDir)Core/include</IncludePath>
+    <LibraryPath>$(SolutionDir)PhysX/bin/debug;$(SolutionDir)Core/bin/debug;$(SolutionDir)FMOD/bin/debug;$(LibraryPath)</LibraryPath>
+    <IncludePath>$(SolutionDir)Core/include;$(SolutionDir)BingeEatingRoyalHighness/include;$(SolutionDir)PhysX/include;$(SolutionDir)FMOD/include</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
-    <LibraryPath>$(SolutionDir)PhysX/bin/release;$(SolutionDir)Core/bin/release;$(LibraryPath)</LibraryPath>
-    <IncludePath>$(SolutionDir)PhysX/include;$(SolutionDir)Core/include</IncludePath>
+    <LibraryPath>$(SolutionDir)PhysX/bin/release;$(SolutionDir)Core/bin/release;$(SolutionDir)FMOD/bin/release;$(LibraryPath)</LibraryPath>
+    <IncludePath>$(SolutionDir)Core/include;$(SolutionDir)BingeEatingRoyalHighness/include;$(SolutionDir)PhysX/include;$(SolutionDir)FMOD/include</IncludePath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
@@ -69,12 +69,13 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalDependencies>Core.lib;dxguid.lib;dxgi.lib;d3d12.lib;D3DCompiler.lib;d2d1.lib;D3d11.lib;DWrite.lib;RuntimeObject.lib;PhysXCommon_64.lib;PhysX_64.lib;PhysXFoundation_64.lib;PhysXCooking_64.lib;PhysXExtensions_static_64.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>Core.lib;DirectXTK12.lib;dxguid.lib;dxgi.lib;d3d12.lib;D3DCompiler.lib;d2d1.lib;D3d11.lib;DWrite.lib;RuntimeObject.lib;PhysXCommon_64.lib;PhysX_64.lib;PhysXFoundation_64.lib;PhysXCooking_64.lib;PhysXExtensions_static_64.lib;fmodL_vc.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
     <PostBuildEvent />
     <PostBuildEvent>
       <Command>xcopy "$(SolutionDir)Physx\bin\debug\*.dll" "$(TargetDir)" /v /k /y
-xcopy "$(SolutionDir)Core\bin\debug\*.*" "$(TargetDir)" /v /k /y </Command>
+xcopy "$(SolutionDir)Core\bin\debug\*.*" "$(TargetDir)" /v /k /y
+xcopy "$(SolutionDir)FMOD\bin\debug\*.dll" "$(TargetDir)" /v /k /y</Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
@@ -95,22 +96,35 @@ xcopy "$(SolutionDir)Core\bin\debug\*.*" "$(TargetDir)" /v /k /y </Command>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalDependencies>Core.lib;dxguid.lib;dxgi.lib;d3d12.lib;D3DCompiler.lib;d2d1.lib;D3d11.lib;DWrite.lib;RuntimeObject.lib;PhysXCommon_64.lib;PhysX_64.lib;PhysXFoundation_64.lib;PhysXCooking_64.lib;PhysXExtensions_static_64.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>Core.lib;DirectXTK12.lib;dxguid.lib;dxgi.lib;d3d12.lib;D3DCompiler.lib;d2d1.lib;D3d11.lib;DWrite.lib;RuntimeObject.lib;PhysXCommon_64.lib;PhysX_64.lib;PhysXFoundation_64.lib;PhysXCooking_64.lib;PhysXExtensions_static_64.lib;fmod_vc.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
     <PostBuildEvent />
     <PostBuildEvent>
-      <Command>xcopy "$(SolutionDir)Physx\bin\release\*.dll" "$(TargetDir)" /v /k /y 
-xcopy "$(SolutionDir)Core\bin\release\*.*" "$(TargetDir)" /v /k /y</Command>
+      <Command>xcopy "$(SolutionDir)Physx\bin\release\*.dll" "$(TargetDir)" /v /k /y
+xcopy "$(SolutionDir)Core\bin\release\*.*" "$(TargetDir)" /v /k /y
+xcopy "$(SolutionDir)FMOD\bin\release\*.dll" "$(TargetDir)" /v /k /y</Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ControlCommand.cpp" />
+    <ClCompile Include="ControlRMC.cpp" />
+    <ClCompile Include="FmodAudio.cpp" />
+    <ClCompile Include="NextObjectCmd.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
     <ClCompile Include="BingeEatingRoyalHighness.cpp" />
+    <ClCompile Include="PrevObjectCmd.cpp" />
+    <ClCompile Include="ShowControlsCmd.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="include\ControlCommand.h" />
+    <ClInclude Include="include\ControlRMC.h" />
+    <ClInclude Include="include\FmodAudio.h" />
+    <ClInclude Include="include\NextObjectCmd.h" />
+    <ClInclude Include="include\PrevObjectCmd.h" />
+    <ClInclude Include="include\ShowControlsCmd.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>

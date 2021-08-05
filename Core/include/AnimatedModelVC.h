@@ -37,7 +37,7 @@ namespace Ion
 			virtual void Render(Core::Canvas* pCanvas, Core::Material3D* pMaterial) override;
 			virtual void Render(Core::Canvas* pCanvas, Core::Material2D* pMaterial) override { (pCanvas); (pMaterial); };
 		private:
-			std::vector<DirectX::XMFLOAT4X4> mTransforms;
+			std::vector<DirectX::XMFLOAT4X4> mBoneTransforms;
 			Core::AnimationClip mAnimationClip;
 			float
 				mTickCount,

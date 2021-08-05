@@ -16,6 +16,10 @@
 #include <fstream>
 #include <locale>
 #include <codecvt>
+#include <ctime>
+//#include <random>
+#define _USE_MATH_DEFINES
+#include <cmath>
 
 #include <Windows.h>
 #include <DirectXMath.h>
